@@ -1,0 +1,27 @@
+= Let's get Functional: The fast path to smart serverless with Spring Cloud Function & Azure Functions
+
+== Maintainer
+
+* Mark Heckler
+* mailto:mark@thehecklers.com[mark@thehecklers.com]
+* https://twitter.com/mkheck[@mkheck on Twitter]
+
+== Purpose
+
+This meta-repo accompanies my session titled *"Let's get Functional"* and includes all code written within the session and more. I'll update and add to these repos as the session evolves and/or as I think of more things to share.
+
+*_Star+watch this repo (and linked repos) for updates!_*
+
+== Notes
+
+The PlaneFinder repo listed below pulls from a local aircraft tracking device I have in my home data center from PlaneFinder.net. If you don't have one and have no desire to host one, the PlaneFinder app generates sample data.
+
+== Linked repos
+
+https://github.com/mkheck/scf-az-planefinder[PlaneFinder project: Spring Boot application]
+https://github.com/mkheck/scf-af-ac[Aircraft project: Spring Cloud Function+Azure Functions)]
+https://github.com/mkheck/scf-af-pos[Aircraft Positions project: Spring Cloud Function+Azure Functions)]
+
+== Related presentation
+
+https://speakerdeck.com/mkheck/lets-get-functional["Let's get functional!" presentation]
