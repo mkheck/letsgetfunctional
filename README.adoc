@@ -18,9 +18,9 @@ The PlaneFinder repo listed below pulls from a local aircraft tracking device I 
 
 == Linked repos
 
-. https://github.com/mkheck/scf-az-planefinder[PlaneFinder project: Spring Boot application]
-. https://github.com/mkheck/scf-af-ac[Aircraft project: Spring Cloud Function+Azure Functions)]
-. https://github.com/mkheck/scf-af-pos[Aircraft Positions project: Spring Cloud Function+Azure Functions)]
+* https://github.com/mkheck/scf-af-planefinder[PlaneFinder project: Spring Boot application]
+* https://github.com/mkheck/scf-af-ac[Aircraft project: Spring Cloud Function+Azure Functions)]
+* https://github.com/mkheck/scf-af-pos[Aircraft Positions project: Spring Cloud Function+Azure Functions)]
 
 == Related presentation
 
