@@ -16,11 +16,13 @@ This meta-repo accompanies my session titled *"Let's get Functional"* and includ
 
 The PlaneFinder repo listed below pulls from a local aircraft tracking device I have in my home data center from PlaneFinder.net. If you don't have one and have no desire to host one, the PlaneFinder app generates sample data.
 
+Both function repos below (_scf-af-aircraft-fn_ and _scf-af-position-fn_) have two branches, *scf* and *scfwithazurefunctions*. To run the Spring Cloud Function (SCF), be sure to checkout the *SCF* branch locally after fetching all branches. To execute locally or in Azure the version using SCF and Azure Functions, checkout the *scfwithazurefunctions* branch. Happy coding!
+
 == Linked repos
 
 * https://github.com/mkheck/scf-af-planefinder[PlaneFinder project: Spring Boot application]
-* https://github.com/mkheck/scf-af-ac[Aircraft project: Spring Cloud Function+Azure Functions)]
-* https://github.com/mkheck/scf-af-pos[Aircraft Positions project: Spring Cloud Function+Azure Functions)]
+* https://github.com/mkheck/scf-af-aircraft-fn[Aircraft project: Spring Cloud Function+Azure Functions)]
+* https://github.com/mkheck/scf-af-position-fn[Aircraft Positions project: Spring Cloud Function+Azure Functions)]
 
 == Related presentation
 
